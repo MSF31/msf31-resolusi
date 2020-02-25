@@ -1,0 +1,3 @@
+msf31-resolusi
+- Buat Web / Blog Pribadi untuk portofolio
+- Memahami dasar-dasar penggunaan google cloud

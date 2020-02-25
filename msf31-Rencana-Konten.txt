@@ -2,6 +2,9 @@ Rencananya sih juga masih bingung gw mau bikin apaaan hehehe
 
 - Vanilla JS
 *kenapa pake Vanilla JS ? karna enteng
+^angular
+^React
+^Laravel
 - Sublime Text
 ^angular
 ^React
